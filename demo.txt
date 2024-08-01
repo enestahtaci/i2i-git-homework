@@ -1,1 +1,2 @@
 r2.5.4 versiyonunda geliştirme yaptım fakar sorun ortaya çıktı
+r2.5.4.1-bugfix branchi açıp sorunları giderdim
